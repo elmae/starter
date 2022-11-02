@@ -1,6 +1,5 @@
-
-// scss-docs-start theme-color-variables
-$orange:  #fd7e14;
+// scss-docs-start theme-color-variables and own scss
+$orange: #fd7e14;
 $primary: $orange;
 
-@import "../../node_modules/bootstrap/scss/bootstrap.scss";
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
